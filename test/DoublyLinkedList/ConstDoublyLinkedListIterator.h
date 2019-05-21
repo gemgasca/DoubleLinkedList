@@ -6,7 +6,7 @@
 #define TESTDOUBLELINKEDLIST_CONSTDOUBLYLINKEDLISTITERATOR_H
 
 #include "DoubleLinkedNode.h"
-#inlcude "DoublyLinkedList.h"
+#include "DoublyLinkedList.h"
 #include "ConstReverseDoublyLinkedListIterator.h"
 #include "DoublyLinkedListIterator.h"
 

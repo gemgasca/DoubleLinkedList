@@ -6,7 +6,7 @@
 #define LINKEDLIST_GENERICDOUBLYLINKEDLISTITERATOR_H
 
 #include "DoubleLinkedNode.h"
-#inlcude "DoublyLinkedList.h"
+#include "DoublyLinkedList.h"
 #include "ConstDoublyLinkedListIterator.h"
 #include "ConstReverseDoublyLinkedListIterator.h"
 
